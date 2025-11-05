@@ -1,1 +1,2 @@
 Babylonjs Playground link for animations: https://playground.babylonjs.com/#JKIO7J#33
+Screen recording doesn't show controller use because the video file was getting too big. Controllers can be moved in WebXR and when the ray hits a button, trigger can be clicked to click the button. The lighting is also off becaues I had to compress the file to upload onto github, but the original lighting had a bitter look. 
